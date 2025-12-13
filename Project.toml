@@ -1,7 +1,7 @@
 name = "StochasticDiffEq"
 uuid = "789caeaf-c7a9-5a7d-9973-96adeb23e2a0"
-authors = ["Chris Rackauckas <accounts@chrisrackauckas.com>"]
 version = "6.84.0"
+authors = ["Chris Rackauckas <accounts@chrisrackauckas.com>"]
 
 [deps]
 ADTypes = "47edcb42-4c32-4615-8424-f2b9edc5f35b"
@@ -47,7 +47,7 @@ JumpProcesses = "9"
 LevyArea = "1.0.0"
 LinearAlgebra = "1.6"
 Logging = "1.6"
-ModelingToolkit = "10"
+ModelingToolkit = "10, 11"
 MuladdMacro = "0.2.1"
 NLsolve = "4"
 OrdinaryDiffEq = "6.87"
